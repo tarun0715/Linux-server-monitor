@@ -1,1 +1,1 @@
-Hello Master:Master
+echo Hello Master:Master
